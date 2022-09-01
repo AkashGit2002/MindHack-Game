@@ -1,2 +1,1 @@
-# MindHack-Game
-MindHack Game
+
