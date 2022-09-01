@@ -2,13 +2,15 @@
 
 
 
-![mind](https://user-images.githubusercontent.com/89854060/175661023-63464bfb-4dcd-4a06-a271-8c960c6f5df9.svg)
+https://user-images.githubusercontent.com/89854060/187999659-3acf5190-487c-4e5d-8157-90bc79e4134a.mp4
 
-# Click Below link To Play
-https://verdant-salamander-cb1cbc.netlify.app/
+
+
+
+![Click Below link To Play](https://verdant-salamander-cb1cbc.netlify.app/)
 
 # Description
-This is a mind game where you have to choose a number if it is equal to the random generated number so you win the game so have you play it so click the above link.
+This is a mind game where you choose any number within the range of 1-100 if it is correct one so you win the game otherwise try again.
 
 # Tech stack used
 1) HTML5
