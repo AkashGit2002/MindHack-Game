@@ -15,4 +15,4 @@ This is a mind game where you choose any number within the range of 1-100 if it 
 # Tech stack used
 1) HTML5
 2) CSS3
-3) JAVASCRIPT(ES6)
+3) JAVASCRIPT
